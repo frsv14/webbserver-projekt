@@ -1,3 +1,25 @@
 #total_body {
-    border: 10px black solid
+    border: 10px black solid;
+    background-color: grey;
+    padding: 100px;
 }
+#head{
+    border-color: 10px black; 
+    border: dotted;
+}
+#body {
+    border-color: 154px black;
+    border: dotted;
+}
+#input_box {
+    border-radius: 0%;
+    margin: 259px;
+    border-style: none;
+    border: none;
+    background-color: black;
+    text-decoration-color: beige;
+}
+body {
+    background-color: antiquewhite;
+}
+
